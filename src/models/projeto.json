@@ -1,6 +1,6 @@
 [
   {
-    "titulo": "Aplicativo de Delivery de Comida",
+    "titulo": "Delivery de Comida",
     "imagem": "https://www.qgjeitinhocaseiro.com/wp-content/uploads/2019/11/comida-online-como-pedir.jpg",
     "tecnologias": ["Flutter", "Node.js", "MongoDB"],
     "descricao": "Desenvolvimento de um aplicativo para entrega de comida de restaurantes locais.",
@@ -9,7 +9,7 @@
     "concluido": "false"
   },
   {
-    "titulo": "Plataforma de Aluguel de Imóveis",
+    "titulo": "Aluguel de Imóveis",
   "imagem": "https://grupospimovel.s3.amazonaws.com/Imagens/Noticias/Sistema/mercado-imobiliario/custo_aluguel_sbc.jpg",
     "tecnologias": ["Ruby on Rails", "PostgreSQL", "React"],
     "descricao": "Criação de uma plataforma online para aluguel e locação de imóveis.",
@@ -18,7 +18,7 @@
     "concluido": "false"
   },
   {
-    "titulo": "Aplicativo de Mobilidade Urbana",
+    "titulo": "Mobilidade Urbana",
     "imagem": "https://blog.abep.org/wp-content/uploads/2018/01/blog4-606x341.png",
     "tecnologias": ["Ionic", "Node.js", "Firebase"],
     "descricao": "Desenvolvimento de um aplicativo para solicitação de transporte urbano.",
@@ -27,7 +27,7 @@
     "concluido": "true"
   },
   {
-    "titulo": "Plataforma de Finanças Pessoais",
+    "titulo": "Finanças Pessoais",
     "imagem": "https://s2-techtudo.glbimg.com/TscvhVWdp-cGjDut8pw7GNt7LGE=/0x0:1464x1000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/e/3/gIbGp7ToyfpewEA9mz6g/marca-d-agua-1-2-.png",
     "tecnologias": ["Vue.js", "Django", "SQLite"],
     "descricao": "Criação de uma plataforma para gerenciamento de finanças pessoais e orçamento.",
@@ -36,7 +36,7 @@
     "concluido": "false"
   },
   {
-    "titulo": "Aplicativo de Aprendizado de Idiomas",
+    "titulo": "Aprendizado de Idiomas",
     "imagem": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/02/Aplicativos-para-aprender-outro-idioma-Pinterest.jpg?quality=100&strip=info",
     "tecnologias": ["React Native", "Node.js", "MySQL"],
     "descricao": "Desenvolvimento de um aplicativo para ensino e prática de idiomas.",
@@ -45,7 +45,7 @@
     "concluido": "true"
   },
   {
-    "titulo": "Plataforma de Doações Online",
+    "titulo": "Doações Online",
     "imagem": "https://blog.picpay.com/wp-content/uploads/2022/03/responsabilidade-social-como-fazer-doacao-pelo-picpay.jpg",
     "tecnologias": ["Angular", "Spring Boot", "PostgreSQL"],
     "descricao": "Criação de uma plataforma online para doações a organizações beneficentes.",
@@ -54,7 +54,7 @@
     "concluido": "false"
   },
   {
-    "titulo": "Plataforma de Arte Colaborativa",
+    "titulo": "Arte Colaborativa",
     "imagem": "https://cdn.colab55.com/images/1598465808/u/5-redes-sociais-para-divulgar-trabalhos-artisticos-slide0.jpg",
     "tecnologias": ["Angular", "Node.js", "MongoDB"],
     "descricao": "Criação de uma plataforma online para artistas colaborarem em projetos criativos.",
@@ -63,7 +63,7 @@
     "concluido": "false"
   },
   {
-    "titulo": "Aplicativo de Bem-Estar Mental",
+    "titulo": "Bem-Estar Mental",
     "imagem": "https://autossustentavel.com/wp-content/uploads/2017/06/Instagram_1.png",
     "tecnologias": ["React Native", "Firebase"],
     "descricao": "Desenvolvimento de um aplicativo para promover o bem-estar mental e fornecer recursos terapêuticos.",
@@ -90,34 +90,34 @@
     "concluido": "false"
   },
   {
-    "titulo": "Plataforma de Ensino Online",
+    "titulo": "Ensino Online",
     "imagem": "https://blog.alboompro.com/wp-content/uploads/2020/12/crie-seu-site-gratis-com-o-melhor-curso.jpeg",
     "tecnologias": ["React", "Node.js", "MongoDB"],
-    "descricao": "Desenvolvimento de uma plataforma de ensino online para cursos e treinamentos diversos.",
+    "descricao": "Desenvolvimento de uma ensino online para cursos e treinamentos diversos.",
     "categoria": "Desenvolvimento Web",
     "data": "2023-09-15",
     "concluido": "false"
   },
   {
-    "titulo": "Aplicativo de Saúde",
+    "titulo": "Saúde",
     "imagem": "https://zellosaude.app/wp-content/uploads/2021/04/aplicativo-de-sau%CC%81de-1536x798.jpg",
     "tecnologias": ["HTML", "CSS", "JavaScript", "NodeJs"],
-    "descricao": "Desenvolvimento de um aplicativo de monitoramento de saúde para dispositivos móveis.",
+    "descricao": "Desenvolvimento de um monitoramento de saúde para dispositivos móveis.",
     "categoria": "Desenvolvimento Mobile",
     "data": "2023-07-10",
     "concluido": "true"
   },
   {
-    "titulo": "Plataforma de Aprendizado Online",
+    "titulo": "Aprendizado Online",
     "imagem": "https://blog.sympla.com.br/wp-content/uploads/2022/06/termos-relacionados-a-curso-online-2.png",
     "tecnologias": ["React", "Node.js", "MongoDB"],
-    "descricao": "Criação de uma plataforma de aprendizado online para cursos e treinamentos diversos.",
+    "descricao": "Criação de uma aprendizado online para cursos e treinamentos diversos.",
     "categoria": "Desenvolvimento Web",
     "data": "2023-08-20",
     "concluido": "true"
   },
   {
-    "titulo": "Aplicativo de Notícias em Tempo Real",
+    "titulo": "Notícias em Tempo Real",
     "imagem": "https://cdn.noticiasaominuto.com.br/img/app_share.png",
     "tecnologias": ["React Native", "Firebase", "APIs de Notícias"],
     "descricao": "Desenvolvimento de um aplicativo para entrega de notícias em tempo real para dispositivos móveis.",
