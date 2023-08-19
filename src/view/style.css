@@ -10,8 +10,8 @@ footer {
 
 header,
 footer {
-  background-color: #e5eff1;
-  color: #88a2a8;
+  background-color: #a8a3cc;
+  color: #e5eff1;
   font-family: roboto, sans-serif;
 }
 .card {
@@ -96,5 +96,5 @@ ul.rodape li a:hover {
 }
 
 .full-height {
-  min-height: calc(85vh - 30px);
-}
+  /* min-height: calc(85vh - 30px);
+} */

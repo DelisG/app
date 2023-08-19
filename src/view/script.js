@@ -4,7 +4,8 @@ const input_descricao = document.getElementById("descricao");
 const input_data = document.getElementById("data");
 
 async function fetchProjetos() {
-  const response = await fetch("http://localhost:2727/projetos");
+  // const response = await fetch("http://localhost:2727/projetos");
+  const response = await fetch("../models/projeto.json");
   const projeto = await response.json();
   return projeto;
 }
