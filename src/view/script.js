@@ -5,7 +5,7 @@ const input_data = document.getElementById("data");
 
 async function fetchProjetos() {
   // const response = await fetch("http://localhost:2727/projetos");
-  const response = await fetch("../models/projeto.json");
+  const response = await fetch("src/models/projeto.json");
   const projeto = await response.json();
   return projeto;
 }
@@ -63,7 +63,7 @@ async function init() {
     const projeto = await fetchProjetos();
     renderProjeto(projeto);
   } catch (error) {
-    console.error("Erro ao carregar imagems:", error);
+    console.error("Erro ao carregar imagens:", error);
   }
 }
 
