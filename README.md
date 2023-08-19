@@ -2,8 +2,8 @@
 
 [![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-brightgreen?color=yellow)](#)
 
-<p align="center">
-O <strong> APP - Plataforma de Projetos Pessoais </strong>é uma aplicação FullStack, desenvolvida utilizando JavaScript em com Node.js e integrada com o banco de dados MongoDB. Este projeto foi realizado com o propósito de efetivamente aplicar os conhecimentos adquiridos ao longo de diversos cursos e experiências. <br>
+<p >
+O <strong> APP </strong>é uma aplicação FullStack, desenvolvida utilizando JavaScript em com Node.js e integrada com o banco de dados MongoDB. Este projeto foi realizado com o propósito de efetivamente aplicar os conhecimentos adquiridos ao longo de diversos cursos e experiências. <br>
 Neste momento, a aplicação encontra-se em fase de desenvolvimento ativo. Os projetos atualmente apresentados são fictícios, servindo como demonstração. No entanto, está nos meus planos aprimorar significativamente a plataforma, incluindo a integração de projetos reais que reflitam minha jornada.
  </p>
 
