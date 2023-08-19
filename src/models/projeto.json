@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Aplicativo de Saúde",
+    "imagem": "https://zellosaude.app/wp-content/uploads/2021/04/aplicativo-de-sau%CC%81de-1536x798.jpg",
+    "tecnologias": ["HTML", "CSS", "JavaScript", "NodeJs"],
+    "descricao": "Desenvolvimento de um aplicativo de monitoramento de saúde para dispositivos móveis.",
+    "categoria": "Desenvolvimento Mobile",
+    "data": "2023-07-10",
+    "concluido": "true"
+  },
+  {
+    "titulo": "Plataforma de Aprendizado Online",
+    "imagem": "https://blog.sympla.com.br/wp-content/uploads/2022/06/termos-relacionados-a-curso-online-2.png",
+    "tecnologias": ["React", "Node.js", "MongoDB"],
+    "descricao": "Criação de uma plataforma de aprendizado online para cursos e treinamentos diversos.",
+    "categoria": "Desenvolvimento Web",
+    "data": "2023-08-20",
+    "concluido": "true"
+  },
+  {
+    "titulo": "Campanha de Doação de Alimentos",
+    "imagem": "https://www.hypeness.com.br/1/2020/03/Comida_Invisi%CC%81vel_03.jpg",
+    "tecnologias": ["php, laravel, mySQL"],
+    "descricao": "Organização de uma campanha online para arrecadação de alimentos para famílias necessitadas.",
+    "categoria": "Responsabilidade Social",
+    "data": "2023-06-30",
+    "concluido": "false"
+  },
+  {
+    "titulo": "Aplicativo de Notícias em Tempo Real",
+    "imagem": "https://cdn.noticiasaominuto.com.br/img/app_share.png",
+    "tecnologias": ["React Native", "Firebase", "APIs de Notícias"],
+    "descricao": "Desenvolvimento de um aplicativo para entrega de notícias em tempo real para dispositivos móveis.",
+    "categoria": "Desenvolvimento Mobile",
+    "data": "2023-05-12",
+    "concluido": "true"
+  }
+]
