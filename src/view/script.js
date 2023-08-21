@@ -1,6 +1,7 @@
 const cardProjetos = document.getElementById("div-projetos");
 
 async function fetchProjetos() {
+    // const response = await fetch("http://localhost:2727/projetos");
   const response = await fetch("src/models/projeto.json");
   const projetos = await response.json();
   return projetos;
@@ -14,7 +15,7 @@ function renderProjeto(projeto) {
 
   projeto.forEach((imagem) => {
     const colDiv = document.createElement("div");
-    colDiv.classList.add("col-12", "col-sm-6", "col-md-4", "mt-3");
+    colDiv.classList.add("col-12", "col-sm-6", "col-md-4", "div-card");
 
     const card = document.createElement("div");
     card.classList.add("card");
