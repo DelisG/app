@@ -1,18 +1,22 @@
-
 footer {
   padding: 20px 0;
   /* position: absolute; */
   bottom: 0;
   width: 100%;
+  margin-top: 1rem;
 }
 
 header,
 footer {
-  background-color: #243940
-;
+  background-color: #243940;
   color: #e5eff1;
   font-family: roboto, sans-serif;
 }
+.div-card {
+  /* min-width: 400px; */
+  margin-top: 1rem;
+}
+
 .card {
   margin: 0;
   padding: 0;
@@ -64,14 +68,14 @@ footer {
   justify-content: center;
   align-items: center;
   opacity: 1;
-  transition: opacity 1s; 
+  transition: opacity 1s;
 }
 
-.titulo{
+.titulo {
   font-size: 1rem;
   font-weight: bold;
 }
-.descricao  .tecnologias {
+.descricao .tecnologias {
   font-size: 1rem;
 }
 
@@ -80,7 +84,8 @@ footer {
   width: 65px;
 }
 
-ul.rodape li a {
+ul.opcoes-links li a {
+  color: #e5eff1;
   display: block;
   text-align: center;
 }
@@ -90,20 +95,21 @@ ul.rodape li a {
   height: 25px;
 }
 
-ul.rodape {
+ul.opcoes-links {
   margin: 0;
   padding: 0;
   width: auto;
 }
-ul.rodape li {
+ul.opcoes-links li {
   display: inline-block;
   padding: 0;
   margin: 7px;
 }
-ul.rodape li a:hover {
+ul.opcoes-links li a:hover {
+  color: #657479;
+  transition: color 0.5s;
   .icone-redes-sociais {
     width: 28px;
     height: 28px;
   }
 }
-
