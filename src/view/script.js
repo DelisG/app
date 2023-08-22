@@ -28,6 +28,12 @@ function renderProjeto(projeto) {
 
     const card = document.createElement("div");
     card.classList.add("card");
+    card.setAttribute("data-link", imagem.link); 
+    
+    card.addEventListener("click", () => {
+      const link = card.getAttribute("data-link");
+      window.location.href = link; 
+    });
 
     const imageContainer = document.createElement("div");
     imageContainer.classList.add("image-container");
