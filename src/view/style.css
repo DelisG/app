@@ -70,6 +70,7 @@ footer {
   align-items: center;
   opacity: 1;
   transition: opacity 1s;
+  border-radius: 5px;
 }
 
 .titulo {
