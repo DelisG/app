@@ -1,7 +1,16 @@
+document.addEventListener("DOMContentLoaded", function () {
+  const toggleButton = document.getElementById("navbarToggleBtn");
+  const menu = document.getElementById("navbarNav");
+
+  toggleButton.addEventListener("click", function () {
+    menu.classList.toggle("show");
+  });
+});
+
 const cardProjetos = document.getElementById("div-projetos");
 
 async function fetchProjetos() {
-    // const response = await fetch("http://localhost:2727/projetos");
+  // const response = await fetch("http://localhost:2727/projetos");
   const response = await fetch("src/models/projeto.json");
   const projetos = await response.json();
   return projetos;
