@@ -9,8 +9,9 @@ footer {
 header,
 footer {
   background-color: #243940;
-  color: #e5eff1;
-  font-family: roboto, sans-serif;
+  color: #939da1;
+  font-family: Trebuchet MS, sans-serif;
+  font-weight: bold;
 }
 .div-card {
   /* min-width: 400px; */
@@ -85,9 +86,9 @@ footer {
 }
 
 ul.opcoes-links li a {
-  color: #e5eff1;
+  color: #939da1;
   display: block;
-  text-align: center;
+  text-align: right;
 }
 
 .icone-redes-sociais {
@@ -106,7 +107,7 @@ ul.opcoes-links li {
   margin: 7px;
 }
 ul.opcoes-links li a:hover {
-  color: #657479;
+  color: #e5eff1;
   transition: color 0.5s;
   .icone-redes-sociais {
     width: 28px;
