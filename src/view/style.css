@@ -44,6 +44,8 @@ footer {
 
 .full-height {
   min-height: 100vh;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 header {
