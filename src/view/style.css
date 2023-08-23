@@ -1,21 +1,6 @@
-footer {
-  padding: 20px 0;
-  /* position: absolute; */
-  bottom: 0;
-  width: 100%;
-  margin-top: 1rem;
-}
-
-header,
-footer {
-  background-color: #243940;
-  color: #939da1;
-  font-family: Trebuchet MS, sans-serif;
-  font-weight: bold;
-}
-.div-card {
-  /* min-width: 400px; */
-  margin-top: 1rem;
+body,
+html {
+  height: 100%;
 }
 
 .card {
@@ -23,6 +8,57 @@ footer {
   padding: 0;
   position: relative;
 }
+
+.card:hover .overlay {
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  transition: opacity, 1s;
+  transition: background-color, 1s;
+  border-radius: 5px;
+}
+
+.descricao .tecnologias {
+  font-size: 1rem;
+}
+
+.div-card {
+  /* min-width: 400px; */
+  margin-top: 1rem;
+}
+
+footer {
+  /* position: absolute; */
+  bottom: 0;
+  background-color: #243940;
+  color: #939da1;
+  font-family: Trebuchet MS, sans-serif;
+  font-weight: bold;
+  padding: 20px 0;
+  width: 100%;
+}
+
+.full-height {
+  min-height: 100vh;
+}
+
+header {
+  background-color: #243940;
+  color: #939da1;
+  font-family: Trebuchet MS, sans-serif;
+  font-weight: bold;
+}
+.icone-redes-sociais {
+  width: 25px;
+  height: 25px;
+}
+
 .image-container {
   position: relative;
   width: 100%;
@@ -36,6 +72,15 @@ footer {
   object-fit: cover;
 }
 
+.img-logo {
+  margin: 3px;
+  width: 65px;
+}
+
+main {
+  background-color: #f6f7f7;
+  padding-bottom: 1rem;
+}
 .overlay {
   position: absolute;
   bottom: 0;
@@ -53,34 +98,7 @@ footer {
     rgba(0, 0, 0, 0.9)
   ); */
   transition: opacity 0.9s ease;
-}
-
-.card:hover .overlay {
-  top: 0;
-  left: 0;
-  background-color: rgba(0, 0, 0, 0.8);
-  color: #fff;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  opacity: 1;
-  transition:  opacity, 1s;
-  transition: background-color, 1s;
   border-radius: 5px;
-}
-
-.titulo {
-  font-size: 1rem;
-  font-weight: bold;
-}
-.descricao .tecnologias {
-  font-size: 1rem;
-}
-
-.img-logo {
-  margin: 3px;
-  width: 65px;
 }
 
 ul.opcoes-links li a {
@@ -89,9 +107,9 @@ ul.opcoes-links li a {
   text-align: right;
 }
 
-.icone-redes-sociais {
-  width: 25px;
-  height: 25px;
+.titulo {
+  font-size: 1rem;
+  font-weight: bold;
 }
 
 ul.opcoes-links {

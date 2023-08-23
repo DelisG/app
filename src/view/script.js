@@ -11,7 +11,7 @@ const cardProjetos = document.getElementById("div-projetos");
 
 async function fetchProjetos() {
   // const response = await fetch("http://localhost:2727/projetos");
-  const response = await fetch("src/models/projeto.json");
+  const response = await fetch("../models/projeto.json");
   const projetos = await response.json();
   return projetos;
 }
