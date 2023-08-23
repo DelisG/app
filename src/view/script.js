@@ -24,7 +24,7 @@ function renderProjeto(projeto) {
 
   projeto.forEach((imagem) => {
     const colDiv = document.createElement("div");
-    colDiv.classList.add("col-12", "col-sm-6", "col-md-3", "div-card");
+    colDiv.classList.add("col-12", "col-sm-6", "col-md-4", "div-card");
 
     const card = document.createElement("div");
     card.classList.add("card");
