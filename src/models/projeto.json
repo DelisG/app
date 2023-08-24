@@ -1,93 +1,107 @@
 [
   {
-    "titulo": "Delivery de Comida",
-    "imagem": "https://www.qgjeitinhocaseiro.com/wp-content/uploads/2019/11/comida-online-como-pedir.jpg",
-    "tecnologias": ["Flutter", "Node.js", "MongoDB"],
-    "descricao": "Aplicativo para entrega de comida de restaurantes locais.",
-    "categoria": "Desenvolvimento Mobile",
-    "data": "2023-08-30",
-    "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
-  },
-  {
-    "titulo": "Aluguel de Imóveis",
-    "imagem": "https://static.appgeek.com.br/imagens/temporada-livre-cke.jpg",
-    "tecnologias": ["Ruby on Rails", "PostgreSQL", "React"],
-    "descricao": "Plataforma online para aluguel e locação de imóveis.",
+    "titulo": "Receitas",
+    "imagem": "../view/img/receitas.png",
+    "tecnologias": ["JavaScript", "NodeJs", "MongoDB"],
+    "descricao": "CRUD Back End",
     "categoria": "Desenvolvimento Web",
     "data": "2023-09-25",
-    "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "concluido": "true",
+    "link": "https://github.com/DelisG/receitas"
   },
   {
-    "titulo": "Mobilidade Urbana",
-    "imagem": "https://blog.abep.org/wp-content/uploads/2018/01/blog4-606x341.png",
-    "tecnologias": ["Ionic", "Node.js", "Firebase"],
-    "descricao": "Aplicativo para solicitação de transporte urbano.",
-    "categoria": "Desenvolvimento Mobile",
+    "titulo": "galeria",
+    "imagem": "../view/img/galeria.png",
+    "tecnologias": [
+      "JavaScript",
+      "NodeJs",
+      "MongoDB",
+      "html",
+      "css",
+      "bootstrap"
+    ],
+    "descricao": "CRUD Full Stack",
+    "categoria": "Desenvolvimento web",
     "data": "2023-07-20",
     "concluido": "true",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/galeria"
   },
   {
-    "titulo": "Finanças Pessoais",
-    "imagem": "https://s2-techtudo.glbimg.com/TscvhVWdp-cGjDut8pw7GNt7LGE=/0x0:1464x1000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/e/3/gIbGp7ToyfpewEA9mz6g/marca-d-agua-1-2-.png",
-    "tecnologias": ["Vue.js", "Django", "SQLite"],
-    "descricao": "Plataforma para gerenciamento de finanças pessoais e orçamento.",
+    "titulo": "Agenda",
+    "imagem": "../view/img/agenda.png",
+    "tecnologias": ["JavaScript", "NodeJs", "MongoDB"],
+    "descricao": "CRUD Back End",
     "categoria": "Desenvolvimento Web",
     "data": "2023-10-10",
-    "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "concluido": "true",
+    "link": "https://github.com/DelisG/agenda"
   },
   {
-    "titulo": "Aprendizado de Idiomas",
-    "imagem": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/02/Aplicativos-para-aprender-outro-idioma-Pinterest.jpg?quality=100&strip=info",
-    "tecnologias": ["React Native", "Node.js", "MySQL"],
-    "descricao": "Aplicativo para ensino e prática de idiomas.",
-    "categoria": "Desenvolvimento Mobile",
+    "titulo": "MVC",
+    "imagem": "../view/img/mvc.png",
+    "tecnologias": ["JavaScript", "NodeJs", "MongoDB"],
+    "descricao": "CRUD Back End",
+    "categoria": "Desenvolvimento web",
     "data": "2023-11-05",
     "concluido": "true",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/mvc"
   },
   {
-    "titulo": "Doações Online",
-    "imagem": "https://blog.picpay.com/wp-content/uploads/2022/03/responsabilidade-social-como-fazer-doacao-pelo-picpay.jpg",
-    "tecnologias": ["Angular", "Spring Boot", "PostgreSQL"],
-    "descricao": "Plataforma online para doações a ONGS.",
-    "categoria": "Responsabilidade Social",
+    "titulo": "Mundo a Fora",
+    "imagem": "../view/img/mundo-a-fora.png",
+    "tecnologias": ["JavaScript", "HTML", "CSS", "Bootstrap"],
+    "descricao": "Aplicação Front End",
+    "categoria": "Desenvolvimento web",
     "data": "2023-09-01",
     "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/mundo-a-fora"
   },
   {
-    "titulo": "Arte Colaborativa",
-    "imagem": "https://cdn.colab55.com/images/1598465808/u/5-redes-sociais-para-divulgar-trabalhos-artisticos-slide0.jpg",
-    "tecnologias": ["Angular", "Node.js", "MongoDB"],
-    "descricao": "Plataforma online para artistas colaborarem em projetos criativos.",
+    "titulo": "Cursos e Consultoria",
+    "imagem": "../view/img/cursos-consultoria.png",
+    "tecnologias": ["ReactJs", "NodeJs", "HTML", "CSS", "Bootstrap"],
+    "descricao": "Aplicação Front End",
     "categoria": "Desenvolvimento Web",
     "data": "2023-12-01",
     "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/cursos-consultoria"
   },
   {
-    "titulo": "Bem-Estar Mental",
-    "imagem": "https://autossustentavel.com/wp-content/uploads/2017/06/Instagram_1.png",
-    "tecnologias": ["React Native", "Firebase"],
-    "descricao": "Aplicativo para promover o bem-estar mental e fornecer recursos terapêuticos.",
-    "categoria": "Desenvolvimento Mobile",
+    "titulo": "Delas",
+    "imagem": "../view/img/delas.png",
+    "tecnologias": ["JavaScript", "NodeJs", "MongoDB"],
+    "descricao": "CRUD Back End",
+    "categoria": "Desenvolvimento web",
     "data": "2023-11-10",
     "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/delas"
   },
   {
-    "titulo": "Rede Social de Viagens",
-    "imagem": "https://s2-techtudo.glbimg.com/-0tRJHTVp7AFnkEWTXGfz7Kh_qc=/0x0:695x415/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/G/E/BOW3IOQkKGPg4kzc17kg/2014-01-30-pagina-inicial-do-trippics.jpg",
-    "tecnologias": ["Vue.js", "Node.js", "MongoDB"],
-    "descricao": "Rede social para compartilhamento de experiências de viagens.",
+    "titulo": "Diciotech",
+    "imagem": "../view/img/diciotech.png",
+    "tecnologias": ["JavaScript", "NodeJs", "MongoDB"],
+    "descricao": "CRUD Back End",
     "categoria": "Desenvolvimento Web",
     "data": "2023-08-05",
     "concluido": "true",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/diciotech"
+  },
+  {
+    "titulo": "Lista de Tarefas",
+    "imagem": "../view/img/lista-de-tarefas.png",
+    "tecnologias": [
+      "JavaScript",
+      "NodeJs",
+      "MongoDB",
+      "html",
+      "css",
+      "bootstrap"
+    ],
+    "descricao": "CRUD Full Stack",
+    "categoria": "Desenvolvimento web",
+    "data": "2023-08-01",
+    "concluido": "true",
+    "link": "https://github.com/DelisG/lista-de-tarefas"
   },
   {
     "titulo": "Loja Virtual de Produtos Naturais",
@@ -97,47 +111,47 @@
     "categoria": "E-Commerce",
     "data": "2023-10-20",
     "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/receitas"
   },
   {
     "titulo": "Ensino Online",
     "imagem": "https://blog.alboompro.com/wp-content/uploads/2020/12/crie-seu-site-gratis-com-o-melhor-curso.jpeg",
-    "tecnologias": ["React", "Node.js", "MongoDB"],
+    "tecnologias": ["React", "NodeJs", "MongoDB"],
     "descricao": "Plataforma de ensino online para cursos e treinamentos diversos.",
     "categoria": "Desenvolvimento Web",
     "data": "2023-09-15",
     "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/receitas"
   },
   {
     "titulo": "Saúde",
     "imagem": "https://zellosaude.app/wp-content/uploads/2021/04/aplicativo-de-sau%CC%81de-1536x798.jpg",
     "tecnologias": ["HTML", "CSS", "JavaScript", "NodeJs"],
     "descricao": "Desenvolvimento de um monitoramento de saúde para dispositivos móveis.",
-    "categoria": "Desenvolvimento Mobile",
+    "categoria": "Desenvolvimento web",
     "data": "2023-07-10",
     "concluido": "true",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/receitas"
   },
   {
     "titulo": "Aprendizado Online",
     "imagem": "https://blog.sympla.com.br/wp-content/uploads/2022/06/termos-relacionados-a-curso-online-2.png",
-    "tecnologias": ["React", "Node.js", "MongoDB"],
+    "tecnologias": ["React", "NodeJs", "MongoDB"],
     "descricao": "Plataforma de aprendizado online para cursos e treinamentos diversos.",
     "categoria": "Desenvolvimento Web",
     "data": "2023-08-20",
     "concluido": "true",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/receitas"
   },
   {
     "titulo": "Notícias em Tempo Real",
     "imagem": "https://cdn.noticiasaominuto.com.br/img/app_share.png",
     "tecnologias": ["React Native", "Firebase", "APIs de Notícias"],
     "descricao": "Aplicativo de Notícias em tempo real para dispositivos móveis.",
-    "categoria": "Desenvolvimento Mobile",
+    "categoria": "Desenvolvimento web",
     "data": "2023-05-12",
     "concluido": "true",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/receitas"
   },
   {
     "titulo": "Campanha de Doação de Alimentos",
@@ -147,6 +161,6 @@
     "categoria": "Responsabilidade Social",
     "data": "2023-06-30",
     "concluido": "false",
-    "link": "https://github.com/DelisG?tab=repositories"
+    "link": "https://github.com/DelisG/receitas"
   }
 ]
