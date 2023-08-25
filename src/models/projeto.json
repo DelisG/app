@@ -162,5 +162,25 @@
     "data": "2023-07-10",
     "concluido": "true",
     "link": "https://github.com/DelisG/DOM"
+  },
+  {
+    "titulo": "CSS",
+    "imagem": "../view/img/CSS.png",
+    "tecnologias": ["Markdown"],
+    "descricao": "Pesquisa aplicada sobre Manipulação do CSS",
+    "categoria": "Desenvolvimento web",
+    "data": "2023-07-10",
+    "concluido": "true",
+    "link": "https://github.com/DelisG/DOM"
+  },
+  {
+    "titulo": "Metodologias",
+    "imagem": "../view/img/metodologias.png",
+    "tecnologias": ["Markdown"],
+    "descricao": "Pesquisa aplicada sobre Metodologias Ágeis",
+    "categoria": "Desenvolvimento web",
+    "data": "2023-07-10",
+    "concluido": "true",
+    "link": "https://github.com/DelisG/metodologias"
   }
 ]
