@@ -104,63 +104,63 @@
     "link": "https://github.com/DelisG/lista-de-tarefas"
   },
   {
-    "titulo": "Loja Virtual de Produtos Naturais",
-    "imagem": "https://aldabra.com.br/images/meta/6a7241f8-f0bd-4d8b-8b35-fc484f780961/9118414d-31ca-46b2-84a0-f3365162a251/72_crop_520x520x100.jpg",
-    "tecnologias": ["Shopify", "Liquid", "CSS", "JavaScript"],
-    "descricao": "Loja virtual para venda de produtos naturais e orgânicos.",
-    "categoria": "E-Commerce",
-    "data": "2023-10-20",
-    "concluido": "false",
-    "link": "https://github.com/DelisG/receitas"
-  },
-  {
-    "titulo": "Ensino Online",
-    "imagem": "https://blog.alboompro.com/wp-content/uploads/2020/12/crie-seu-site-gratis-com-o-melhor-curso.jpeg",
-    "tecnologias": ["React", "NodeJs", "MongoDB"],
-    "descricao": "Plataforma de ensino online para cursos e treinamentos diversos.",
+    "titulo": "Dicionário Interativo",
+    "imagem": "../view/img/#.png",
+    "tecnologias": [
+      "JavaScript",
+      "html",
+      "css",
+      "bootstrap"
+    ],
+    "descricao": "CRUD Front-End",
     "categoria": "Desenvolvimento Web",
     "data": "2023-09-15",
     "concluido": "false",
-    "link": "https://github.com/DelisG/receitas"
+    "link": "https://github.com/DelisG/#"
   },
   {
-    "titulo": "Saúde",
-    "imagem": "https://zellosaude.app/wp-content/uploads/2021/04/aplicativo-de-sau%CC%81de-1536x798.jpg",
-    "tecnologias": ["HTML", "CSS", "JavaScript", "NodeJs"],
-    "descricao": "Desenvolvimento de um monitoramento de saúde para dispositivos móveis.",
+    "titulo": "Tela Login",
+    "imagem": "../view/img/tela-de-login.png",
+    "tecnologias": [
+      "JavaScript",
+      "html",
+      "css",
+      "bootstrap"
+    ],
+    "descricao": "CRUD Front Ent",
     "categoria": "Desenvolvimento web",
     "data": "2023-07-10",
     "concluido": "true",
-    "link": "https://github.com/DelisG/receitas"
+    "link": "https://github.com/DelisG/multipages"
   },
   {
-    "titulo": "Aprendizado Online",
-    "imagem": "https://blog.sympla.com.br/wp-content/uploads/2022/06/termos-relacionados-a-curso-online-2.png",
-    "tecnologias": ["React", "NodeJs", "MongoDB"],
-    "descricao": "Plataforma de aprendizado online para cursos e treinamentos diversos.",
-    "categoria": "Desenvolvimento Web",
-    "data": "2023-08-20",
-    "concluido": "true",
-    "link": "https://github.com/DelisG/receitas"
-  },
-  {
-    "titulo": "Notícias em Tempo Real",
-    "imagem": "https://cdn.noticiasaominuto.com.br/img/app_share.png",
-    "tecnologias": ["React Native", "Firebase", "APIs de Notícias"],
-    "descricao": "Aplicativo de Notícias em tempo real para dispositivos móveis.",
+    "titulo": "Multipages",
+    "imagem": "../view/img/multipages.png",
+    "tecnologias": ["JavaScript", "html", "css", "bootstrap"],
+    "descricao": "CRUD Front Ent",
     "categoria": "Desenvolvimento web",
-    "data": "2023-05-12",
-    "concluido": "true",
-    "link": "https://github.com/DelisG/receitas"
+    "data": "2023-07-10",
+    "concluido": "false",
+    "link": "https://github.com/DelisG/multipages"
   },
   {
-    "titulo": "Campanha de Doação de Alimentos",
-    "imagem": "https://www.hypeness.com.br/1/2020/03/Comida_Invisi%CC%81vel_03.jpg",
-    "tecnologias": ["php, laravel, mySQL"],
-    "descricao": "Plataforma para arrecadação de alimentos para famílias necessitadas.",
-    "categoria": "Responsabilidade Social",
-    "data": "2023-06-30",
-    "concluido": "false",
-    "link": "https://github.com/DelisG/receitas"
+    "titulo": "Padão MVC",
+    "imagem": "../view/img/padrao-mvc.png",
+    "tecnologias": ["Markdown"],
+    "descricao": "Pesquisa aplicada sobre a Arquitetura MVC",
+    "categoria": "Desenvolvimento web",
+    "data": "2023-07-10",
+    "concluido": "true",
+    "link": "https://github.com/DelisG/padrao-mvc"
+  },
+  {
+    "titulo": "DOM",
+    "imagem": "../view/img/DOM.png",
+    "tecnologias": ["Markdown"],
+    "descricao": "Pesquisa aplicada sobre Manipulação do DOM",
+    "categoria": "Desenvolvimento web",
+    "data": "2023-07-10",
+    "concluido": "true",
+    "link": "https://github.com/DelisG/DOM"
   }
 ]
