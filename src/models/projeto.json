@@ -79,9 +79,16 @@
   {
     "titulo": "Diciotech",
     "imagem": "../view/img/diciotech.png",
-    "tecnologias": ["JavaScript", "NodeJs", "MongoDB"],
-    "descricao": "CRUD Back End",
-    "categoria": "Desenvolvimento Web",
+    "tecnologias": [
+      "JavaScript",
+      "NodeJs",
+      "MongoDB",
+      "html",
+      "css",
+      "bootstrap"
+    ],
+    "descricao": "CRUD Full Stack",
+    "categoria": "Desenvolvimento web",
     "data": "2023-08-05",
     "concluido": "true",
     "link": "https://github.com/DelisG/diciotech"
@@ -106,12 +113,7 @@
   {
     "titulo": "Dicionário Interativo",
     "imagem": "../view/img/#.png",
-    "tecnologias": [
-      "JavaScript",
-      "html",
-      "css",
-      "bootstrap"
-    ],
+    "tecnologias": ["JavaScript", "html", "css", "bootstrap"],
     "descricao": "CRUD Front-End",
     "categoria": "Desenvolvimento Web",
     "data": "2023-09-15",
@@ -121,12 +123,7 @@
   {
     "titulo": "Tela Login",
     "imagem": "../view/img/tela-de-login.png",
-    "tecnologias": [
-      "JavaScript",
-      "html",
-      "css",
-      "bootstrap"
-    ],
+    "tecnologias": ["JavaScript", "html", "css", "bootstrap"],
     "descricao": "CRUD Front Ent",
     "categoria": "Desenvolvimento web",
     "data": "2023-07-10",
