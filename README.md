@@ -19,4 +19,4 @@ Neste momento, a aplicação encontra-se em fase de desenvolvimento ativo. Os pr
 - Introdução de projetos reais para refletir minha trajetória profissional e conquistas pessoais.
 - Refinamento contínuo da interface e da experiência geral do usuário.
 
-### 🖼️ [Ver projeto no Browser](https://delisg.github.io/app/)
+### 🎬 [Ver projeto no Browser](https://delisg.github.io/app/src/view/projetos.html)
