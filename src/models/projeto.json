@@ -58,7 +58,7 @@
   },
   {
     "titulo": "Cursos e Consultoria",
-    "imagem": "../view/img/cursos-consultoria.png",
+    "imagem": "../view/img/imagem.png",
     "tecnologias": ["ReactJs", "NodeJs", "HTML", "CSS", "Bootstrap"],
     "descricao": "Aplicação Front End",
     "categoria": "Desenvolvimento Web",
@@ -112,7 +112,7 @@
   },
   {
     "titulo": "Dicionário Interativo",
-    "imagem": "../view/img/#.png",
+    "imagem": "../view/img/imagem.png",
     "tecnologias": ["JavaScript", "html", "css", "bootstrap"],
     "descricao": "Aplicação Front End",
     "categoria": "Desenvolvimento Web",
@@ -128,11 +128,11 @@
     "categoria": "Desenvolvimento web",
     "data": "2023-07-10",
     "concluido": "true",
-    "link": "https://github.com/DelisG/multipages"
+    "link": "https://github.com/DelisG/tela-de-login"
   },
   {
     "titulo": "Multipages",
-    "imagem": "../view/img/multipages.png",
+    "imagem": "../view/img/imagem.png",
     "tecnologias": ["JavaScript", "html", "css", "bootstrap"],
     "descricao": "Aplicação Front End",
     "categoria": "Desenvolvimento web",
@@ -141,7 +141,7 @@
     "link": "https://github.com/DelisG/multipages"
   },
   {
-    "titulo": "Padão MVC",
+    "titulo": "Padrão MVC",
     "imagem": "../view/img/padrao-mvc.png",
     "tecnologias": ["Markdown"],
     "descricao": "Pesquisa aplicada sobre a Arquitetura MVC",
@@ -172,7 +172,7 @@
   },
   {
     "titulo": "Metodologias",
-    "imagem": "../view/img/metodologias.png",
+    "imagem": "../view/img/metodologias (1).png",
     "tecnologias": ["Markdown"],
     "descricao": "Pesquisa aplicada sobre Metodologias Ágeis",
     "categoria": "Desenvolvimento web",
