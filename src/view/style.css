@@ -35,7 +35,7 @@ html {
 footer {
   bottom: 0;
   background-color: #243940;
-  color: #939da1;
+  color: #d3d7d8;
   font-family: Trebuchet MS, sans-serif;
   font-weight: bold;
   padding: 20px 0;
@@ -50,7 +50,7 @@ footer {
 
 header {
   background-color: #243940;
-  color: #939da1;
+  color: #d3d7d8;
   font-family: Trebuchet MS, sans-serif;
   font-weight: bold;
 }
@@ -102,7 +102,7 @@ main {
 }
 
 ul.opcoes-links li a {
-  color: #939da1;
+  color: #d3d7d8;
   display: block;
   text-align: right;
 }
