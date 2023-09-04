@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Magazine",
+    "imagem": "../view/img/magazine.png",
+    "tecnologias": ["JavaScript", "HTML", "CSS", "Bootstrap", "Vite", "Node"],
+    "descricao": "Aplicação Front End",
+    "categoria": "Desenvolvimento web",
+    "data": "2023-09-01",
+    "concluido": "true",
+    "link": "https://github.com/DelisG/magazine"
+  },
+  {
     "titulo": "Receitas",
     "imagem": "../view/img/receitas.png",
     "tecnologias": ["JavaScript", "NodeJs", "MongoDB"],
@@ -58,7 +68,7 @@
   },
   {
     "titulo": "Cursos e Consultoria",
-    "imagem": "../view/img/imagem.png",
+    "imagem": "../view/img/cursos-consultoria.png",
     "tecnologias": ["ReactJs", "NodeJs", "HTML", "CSS", "Bootstrap"],
     "descricao": "Aplicação Front End",
     "categoria": "Desenvolvimento Web",
@@ -112,7 +122,7 @@
   },
   {
     "titulo": "Dicionário Interativo",
-    "imagem": "../view/img/imagem.png",
+    "imagem": "../view/img/dicionario-interativo.png",
     "tecnologias": ["JavaScript", "html", "css", "bootstrap"],
     "descricao": "Aplicação Front End",
     "categoria": "Desenvolvimento Web",
@@ -132,7 +142,7 @@
   },
   {
     "titulo": "Multipages",
-    "imagem": "../view/img/imagem.png",
+    "imagem": "../view/img/multipages.png",
     "tecnologias": ["JavaScript", "html", "css", "bootstrap"],
     "descricao": "Aplicação Front End",
     "categoria": "Desenvolvimento web",
