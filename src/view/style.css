@@ -53,6 +53,8 @@ header {
   color: #d3d7d8;
   font-family: Trebuchet MS, sans-serif;
   font-weight: bold;
+  height: 4rem;
+  padding: 12px;
 }
 .icone-redes-sociais {
   width: 25px;
