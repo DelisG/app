@@ -109,17 +109,7 @@
     "data": "2023-08-01",
     "concluido": "true",
     "link": "https://github.com/DelisG/lista-de-tarefas"
-  },
-  // {
-  //   "titulo": "Dicionário Interativo",
-  //   "imagem": "../view/img/dicionario-interativo.png",
-  //   "tecnologias": ["JavaScript", "html", "css", "bootstrap"],
-  //   "descricao": "Aplicação Front End",
-  //   "categoria": "Desenvolvimento Web",
-  //   "data": "2023-09-15",
-  //   "concluido": "false",
-  //   "link": "https://github.com/DelisG/#"
-  // },
+  },  
   {
     "titulo": "Tela Login",
     "imagem": "../view/img/tela-de-login.png",
