@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Magazine",
-    "imagem": "../view/img/magazine.png",
-    "tecnologias": ["JavaScript", "HTML", "CSS", "Bootstrap", "Vite", "Node"],
-    "descricao": "Aplicação Front End",
-    "categoria": "Desenvolvimento web",
-    "data": "2023-09-01",
-    "concluido": "true",
-    "link": "https://github.com/DelisG/magazine"
-  },
-  {
     "titulo": "Receitas",
     "imagem": "../view/img/receitas.png",
     "tecnologias": ["JavaScript", "NodeJs", "MongoDB"],
@@ -159,6 +149,16 @@
     "data": "2023-07-10",
     "concluido": "true",
     "link": "https://github.com/DelisG/padrao-mvc"
+  },
+  {
+    "titulo": "Magazine",
+    "imagem": "../view/img/magazine.png",
+    "tecnologias": ["JavaScript", "HTML", "CSS", "Bootstrap", "Vite", "Node"],
+    "descricao": "Aplicação Front End",
+    "categoria": "Desenvolvimento web",
+    "data": "2023-09-01",
+    "concluido": "true",
+    "link": "https://github.com/DelisG/magazine"
   },
   {
     "titulo": "DOM",
